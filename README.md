@@ -3,7 +3,7 @@
 
 博客访问地址：https://haoxiaoyong.cn
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=haoxiaoyong1014&show_icons=true&theme=radical)
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=haoxiaoyong1014&show_icons=true&theme=merko)
 <!--
 **haoxiaoyong1014/haoxiaoyong1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
