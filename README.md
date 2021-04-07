@@ -1,7 +1,10 @@
-#### 个人博客
-这是我的个人博客，里面会记录生活和技术的点点滴滴。
+#### 只要努力就能解决的事情，就是最简单的事情！
 
-博客访问地址：https://haoxiaoyong.cn
+#### 个人博客
+
+个人博客访问地址：https://haoxiaoyong.cn
+csdn: https://blog.csdn.net/haoxiaoyong1014
+掘金： https://juejin.cn/user/1151943915616983/posts
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=haoxiaoyong1014&show_icons=true&theme=vue-dark)
 <!--
