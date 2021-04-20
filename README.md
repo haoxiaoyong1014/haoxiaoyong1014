@@ -2,7 +2,7 @@
 
 #### blog
 
-个人博客访问地址：https://haoxiaoyong.cn
+个人博客：https://haoxiaoyong.cn
 
 掘金： https://juejin.cn/user/1151943915616983/posts
 
