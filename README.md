@@ -13,6 +13,7 @@ csdn: https://blog.csdn.net/haoxiaoyong1014
 https://haoxiaoyong.cn/about/
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=haoxiaoyong1014&show_icons=true&theme=vue-dark)
+![](![](https://github.com/haoxiaoyong1014/github-stats/blob/master/generated/overview.svg))
 <!--
 **haoxiaoyong1014/haoxiaoyong1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
